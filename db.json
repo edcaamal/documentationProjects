@@ -1,0 +1,16 @@
+{
+    "municipios":[
+        {
+          "id" : 1,
+          "nombre": "Cakini"
+        },
+        {
+          "id" : 2,
+          "nombre": "Campeche"
+        },
+        {
+          "id" : 3,
+          "nombre": "Carmen"
+        }
+    ]
+}
