@@ -14,7 +14,7 @@
   "tierra": {
     "id": 3,
     "nombre": "Tierra",
-    "UA": 1
+    "UA": 1,
     "milesk": 150
   },
   "marte": {
@@ -44,7 +44,7 @@
   "neptuno": {
     "id": 8,
     "nombre": "Neptuno",
-    "UA": 30.07
+    "UA": 30.07,
     "milesk": 4510
   },
   "ceres": {
@@ -68,13 +68,13 @@
   "meakemake": {
     "id": 12,
     "nombre": "Meakemake",
-    "UA": 45.79
+    "UA": 45.79,
     "milesk": 6868.5
   },
   "eris": {
     "id": 13,
     "nombre": "Eris",
-    "UA": 67.67
+    "UA": 67.67,
     "milesk": 10150.5
   }
 }
