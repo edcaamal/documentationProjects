@@ -1,5 +1,5 @@
 {
-    "municipios":[
+    "municipios":
         {
           "id" : 1,
           "cveInegi" : "001",
@@ -78,5 +78,5 @@
           "nombre": "Dzibalché",
           "cabecera": "Dzibalché"
         }
-    ]
+    
 }
