@@ -1,78 +1,78 @@
 {
     "municipios":
-        {
+        "001":{
           "id" : 1,
           "cveInegi" : "001",
           "nombre": "Cakiní",
           "cabecera": "Calkiní"
         },
-        {
+        "002":{
           "id" : 2,
           "cveInegi" : "002",
           "nombre": "Campeche",
           "cabecera": "San Francisco de Campeche"
         },
-        {
+        "003":{
           "id" : 3,
           "cveInegi" : "003",
           "nombre": "Carmen",
           "cabecera": "Ciudad del Carmen"
         }
-        {
+        "004":{
           "id" : 4,
           "cveInegi" : "004",
           "nombre": "Champotón",
           "cabecera": "Heroica Ciudad de Champotón"
         },
-        {
+        "005":{
           "id" : 5,
           "cveInegi" : "005",
           "nombre": "Hecelchakán",
           "cabecera": "Hecelchakán"
         },
-        {
+        "006":{
           "id" : 6,
           "cveInegi" : "006",
           "nombre": "Hopelchén",
           "cabecera": "Hopelchén"
         },
-        {
+        "007":{
           "id" : 7,
           "cveInegi" : "007",
           "nombre": "Palizada",
           "cabecera": "Palizada"
         },
-        {
+        "008":{
           "id" : 8,
           "cveInegi" : "008",
           "nombre": "Tenabo",
           "cabecera": "Tenabo"
         },
-        {
+        "009":{
           "id" : 9,
           "cveInegi" : "009",
           "nombre": "Escárcega",
           "cabecera": "Escárcega"
         },
-        {
+        "010":{
           "id" : 10,
           "cveInegi" : "010",
           "nombre": "Calakmul",
           "cabecera": "Xpujil"
         },
-        {
+        "011":{
           "id" : 11,
           "cveInegi" : "011",
           "nombre": "Candelaria",
           "cabecera": "Candelaria"
         },
-        {
+        "012":{
           "id" : 12,
           "cveInegi" : "012",
           "nombre": "Seybaplaya",
           "cabecera": "Seybaplaya"
         },
-        {
+        "013":{
           "id" : 13,
           "cveInegi" : "013",
           "nombre": "Dzibalché",
