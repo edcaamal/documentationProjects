@@ -1,0 +1,80 @@
+{
+  "mercurio": {
+    "id": 1,
+    "nombre": "Mercurio",
+    "UA": 0.39,
+    "milesk": 58.5
+  },
+  "venus": {
+    "id": 2,
+    "nombre": "Venus",
+    "UA": 0.72,
+    "milesk": 108
+  },
+  "tierra": {
+    "id": 3,
+    "nombre": "Tierra",
+    "UA": 1
+    "milesk": 150
+  },
+  "marte": {
+    "id": 4,
+    "nombre": "Marte",
+    "UA": 1.52,
+    "milesk": 228
+  },
+  "jupiter": {
+    "id": 5,
+    "nombre": "Júpiter",
+    "UA": 5.2,
+    "milesk": 780
+  },
+  "saturno": {
+    "id": 6,
+    "nombre": "Saturno",
+    "UA": 9.58,
+    "milesk": 1437
+  },
+  "urano": {
+    "id": 7,
+    "nombre": "Urano",
+    "UA": 19.18,
+    "milesk": 2877
+  },
+  "neptuno": {
+    "id": 8,
+    "nombre": "Neptuno",
+    "UA": 30.07
+    "milesk": 4510
+  },
+  "ceres": {
+    "id": 9,
+    "nombre": "Ceres",
+    "UA": 2.77,
+    "milesk": 415.5
+  },
+  "pluton": {
+    "id": 10,
+    "nombre": "Plutón",
+    "UA": 30.48,
+    "milesk": 5922
+  },
+  "haumea": {
+    "id": 11,
+    "nombre": "Haumea",
+    "UA": 43.13,
+    "milesk": 5922
+  },
+  "meakemake": {
+    "id": 12,
+    "nombre": "Meakemake",
+    "UA": 45.79
+    "milesk": 6868.5
+  },
+  "eris": {
+    "id": 13,
+    "nombre": "Eris",
+    "UA": 67.67
+    "milesk": 10150.5
+  }
+}
