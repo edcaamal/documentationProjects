@@ -1,0 +1,82 @@
+{
+  "001": {
+    "abreviatura": "AGC-01",
+    "codigo": "001",
+    "dependencia": "Archivo General del Estado de Campeche (AGC)",
+    "id": 1,
+    "nombre": "Solicitud de copia certificada de archivos resguardados en los acervos del Archivo General del Estado de Campeche",
+    "tipo": "Trámite"
+  },
+  "002": {
+    "abreviatura": "BIENESTAR-01",
+    "codigo": "002",
+    "dependencia": "Secretaría de Bienestar (BIENESTAR)",
+    "id": 2,
+    "nombre": "Sobrinos en transformación: Apoyos a prestadores de servicio social, prácticas profesionales o residencia profesional",
+    "tipo": "Servicio"
+  },
+  "003": {
+    "abreviatura": "BIENESTAR-02",
+    "codigo": "003",
+    "dependencia": "Secretaría de Bienestar (BIENESTAR)",
+    "id": 3,
+    "nombre": "Apoyo ecónomico para actividades productivas",
+    "tipo": "Servicio"
+  },
+  "004": {
+    "abreviatura": "CCAMECAM-01",
+    "codigo": "004",
+    "dependencia": "Comisión de Conciliación y Arbitraje Médico (CCAMECAM)",
+    "id": 4,
+    "nombre": "Orientación en relación a los derechos y obligaciones de los usuarios de los servicios de salud",
+    "tipo": "Servicio"
+  },
+  "005": {
+    "abreviatura": "CCAMECAM-02",
+    "codigo": "005",
+    "dependencia": "Comisión de Conciliación y Arbitraje Médico (CCAMECAM)",
+    "id": 5,
+    "nombre": "Asesoría especializada para presentar una inconformidad/queja por atención en salud",
+    "tipo": "Servicio"
+  },
+  "006": {
+    "abreviatura": "CCAMECAM-03",
+    "codigo": "006",
+    "dependencia": "Comisión de Conciliación y Arbitraje Médico (CCAMECAM)",
+    "id": 6,
+    "nombre": "Gestión inmediata de servicios médicos en instituciones públicas de salud",
+    "tipo": "Servicio"
+  },
+  "007": {
+    "abreviatura": "CCAMECAM-04",
+    "codigo": "007",
+    "dependencia": "Comisión de Conciliación y Arbitraje Médico (CCAMECAM)",
+    "id": 7,
+    "nombre": "Queja médica por atención en salud",
+    "tipo": "Servicio"
+  },
+  "008": {
+    "abreviatura": "CECyTEC-01",
+    "codigo": "008",
+    "dependencia": "Colegio de Estudios Científicos y Tecnológicos (CECyTEC)",
+    "id": 8,
+    "nombre": "Inscripción",
+    "tipo": "Trámite"
+  },
+  "009": {
+    "abreviatura": "CESP-01",
+    "codigo": "009",
+    "dependencia": "Consejo Estatal de Seguridad Pública (CESP)",
+    "id": 9,
+    "nombre": "Inscripción al Registro Público Vehicular",
+    "tipo": "Trámite"
+  },
+  "010": {
+    "abreviatura": "CODESVI-01",
+    "codigo": "010",
+    "dependencia": "Comisión Estatal de Desarrollo de Suelo y Vivienda (CODESVI)",
+    "id": 10,
+    "nombre": "Solicitud de inscripción al Programa de Vivienda",
+    "tipo": "Trámite"
+  }
+}

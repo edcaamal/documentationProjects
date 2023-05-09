@@ -1,0 +1,91 @@
+{
+  "Director": {
+    "nombre": "Mtro. Francisco Javier Barrera Lao",
+    "area": "Director",
+    "correooficial": "fidirecc@uacam.mx",
+    "correopersonal": "fjbarrer@uacam.mx",
+    "telefono": "(981) 8119800 Ext 3030100",
+    "id": 1
+  },
+  "SA": {
+    "nombre": "Dr. Héctor Manuel Quej Cosgaya",
+    "area": "Secretaria Académica",
+    "correooficial": "fi-sriac@uacam.mx",
+    "correopersonal": "hecmquej@uacam.mx",
+    "telefono": "(981) 8119800 Ext 3030115",
+    "id": 2
+  },
+  "CCA": {
+    "nombre": "M.A.C. Gabriela Patricia Aldana Narváez",
+    "area": "Coordinación de Civil y Administración",
+    "correooficial": "fi-coica@uacam.mx",
+    "correopersonal": "gpaldana@uacam.mx",
+    "telefono": "(981) 8119800 Ext 3030123",
+    "id": 3
+  },
+  "CEME": {
+    "nombre": "Ing. Hugo Rodríguez Lara",
+    "area": "Coordinador de Energía y Mecánico Eléctrico",
+    "correooficial": "fi-coene@uacam.mx, fi-comel@uacam.mx",
+    "correopersonal": "hrodrigu@uacam.mx",
+    "telefono": "(981) 8119800 Ext 3030122",
+    "id": 4
+  },
+  "CSC": {
+    "nombre": "M.T.E. Nancy G. Ortiz Cuevas",
+    "area": "Coordinadora de Sistemas Computacionales",
+    "correooficial": "fi-coisc@uacam.mx",
+    "correopersonal": "nagortiz@uacam.mx",
+    "telefono": "(981) 8119800 Ext 3030121",
+    "id": 5
+  },
+  "CMTS": {
+    "nombre": "Mtro. Roberto C Canto Canul",
+    "area": "Coordinador de Mecatrónica y Tecnología de Software",
+    "correooficial": "fi-coits@uacam.mx, fi-coimc@uacam.mx",
+    "correopersonal": "roccanto@uacam.mx",
+    "telefono": "(981) 8119800 Ext 3030120",
+    "id": 6
+  },
+  "CP": {
+    "nombre": "M.A.C. Andrea del Rosario Cruz y Cruz",
+    "area": "Coordinador de Posgrado",
+    "correooficial": "fi-copos@uacam.mx",
+    "correopersonal": "andrcruz@uacam.mx",
+    "telefono": "(981) 8119800 Ext 3030301",
+    "id": 7
+  },
+  "CA": {
+    "nombre": "C.P. Oziel A Martinez Valencia",
+    "area": "Coordinador Administrativo",
+    "correooficial": "oamartin@uacam.mx",
+    "correopersonal": "fi-cadmi@uacam.mx",
+    "telefono": "(981) 8119800 Ext 3030303",
+    "id": 8
+  },
+  "RBM": {
+    "nombre": "Mtro. Ricardo Sánchez Quintal",
+    "area": "Responsable de Becas y Movilidad",
+    "correooficial": "fi-becasmov@uacam.mx",
+    "correopersonal": "",
+    "telefono": "(981) 8119800",
+    "id": 9
+  },
+  "RSSPP": {
+    "nombre": "Mtro. Ricardo Sánchez Quintal",
+    "area": "Responsable de Servicio Social y Prácticas Profesionales",
+    "correooficial": "fi-ssppr@uacam.mx",
+    "correopersonal": "",
+    "telefono": "(981) 8119800 Ext. 3030102",
+    "id": 10
+  },
+
+  "RSEPTFDI": {
+    "nombre": "Mtro. Julio Antonio Gutierrez González",
+    "area": "Responsable de Seguimiento de Egresados (PIESE, FDI) y Programa de Tutorias FDI",
+    "correooficial": "piese-ingenieria@uacam.mx, pit_fd@uacam.mx",
+    "correopersonal": "",
+    "telefono": "(981) 8119800 ",
+    "id": 11
+  }
+}

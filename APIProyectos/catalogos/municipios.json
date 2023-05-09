@@ -1,0 +1,79 @@
+{
+  "001": {
+    "cabecera": "Calkiní",
+    "cveInegi": "001",
+    "id": 1,
+    "nombre": "Cakiní"
+  },
+  "002": {
+    "cabecera": "San Francisco de Campeche",
+    "cveInegi": "002",
+    "id": 2,
+    "nombre": "Campeche"
+  },
+  "003": {
+    "cabecera": "Ciudad del Carmen",
+    "cveInegi": "003",
+    "id": 3,
+    "nombre": "Carmen"
+  },
+  "004": {
+    "cabecera": "Heroica Ciudad de Champotón",
+    "cveInegi": "004",
+    "id": 4,
+    "nombre": "Champotón"
+  },
+  "005": {
+    "cabecera": "Hecelchakán",
+    "cveInegi": "005",
+    "id": 5,
+    "nombre": "Hecelchakán"
+  },
+  "006": {
+    "cabecera": "Hopelchén",
+    "cveInegi": "006",
+    "id": 6,
+    "nombre": "Hopelchén"
+  },
+  "007": {
+    "cabecera": "Palizada",
+    "cveInegi": "007",
+    "id": 7,
+    "nombre": "Palizada"
+  },
+  "008": {
+    "cabecera": "Tenabo",
+    "cveInegi": "008",
+    "id": 8,
+    "nombre": "Tenabo"
+  },
+  "009": {
+    "cabecera": "Escárcega",
+    "cveInegi": "009",
+    "id": 9,
+    "nombre": "Escárcega"
+  },
+  "010": {
+    "cabecera": "Xpujil",
+    "cveInegi": "010",
+    "id": 10,
+    "nombre": "Calakmul"
+  },
+  "011": {
+    "cabecera": "Candelaria",
+    "cveInegi": "011",
+    "nombre": "Candelaria"
+  },
+  "012": {
+    "cabecera": "Seybaplaya",
+    "cveInegi": "012",
+    "id": 12,
+    "nombre": "Seybaplaya"
+  },
+  "013": {
+    "cabecera": "Dzibalché",
+    "cveInegi": "013",
+    "id": 13,
+    "nombre": "Dzibalché"
+  }
+}
