@@ -1,92 +1,82 @@
-[
-    {
-        "id": 1,
-        "codigo": "001",
-        "nombre": "Secretaría General de Gobierno",
-        "abreviatura": "(SEGOB)"
-    },
-    {
-        "id": 2,
-        "codigo": "002",
-        "nombre": "Secretaría de Administración y Finanzas",
-        "abreviatura": "(SAFIN)"
-    },
-    {
-        "id": 3,
-        "codigo": "003",
-        "nombre": "Secretaría de Modernización Administrativa e Innovación Gubernamental",
-        "abreviatura": "(SEMAIG)"
-    },
-    {
-        "id": 4,
-        "codigo": "004",
-        "nombre": "Secretaría de Educación",
-        "abreviatura": "(EDUCACION)"
-    },
-    {
-        "id": 5,
-        "codigo": "005",
-        "nombre": " Secretaría de Salud",
-        "abreviatura": "(SALUD)"
-    },
-    {
-        "id": 6,
-        "codigo": "006",
-        "nombre": " Secretaría de Desarrollo Territorial, Urbano y Obras Públicas",
-        "abreviatura": "(SEDTUyOP)"
-    },
-    {
-        "id": 7,
-        "codigo": "007",
-        "nombre": "Secretaría de Desarrollo Económico",
-        "abreviatura": "(SDE)"
-    },
-    {
-        "id": 8,
-        "codigo": "008",
-        "nombre": "Secretaría de Desarrollo Agropecuario",
-        "abreviatura": "(SDA)"
-    },
-    {
-        "id": 9,
-        "codigo": "009",
-        "nombre": " Secretaría de Bienestar",
-        "abreviatura": "(BIENESTAR)"
-    },
-    {
-        "id": 10,
-        "codigo": "010",
-        "nombre": "Secretaría de Inclusión",
-        "abreviatura": "(INCLUSION)"
-    },
-    {
-        "id": 11,
-        "codigo": "011",
-        "nombre": "Secretaría de Medio Ambiente, Biodiversidad, Cambio Climático y Energía",
-        "abreviatura": "(SMABICCE)"
-    },
-    {
-        "id": 12,
-        "codigo": "012",
-        "nombre": "Secretaría de Turismo",
-        "abreviatura": "(TURISMO)"
-    },
-    {
-        "id": 13,
-        "codigo": "013",
-        "nombre": "Secretaría de Protección y Seguridad Ciudadana",
-        "abreviatura": "(SPSC)"
-    },
-    {
-        "id": 14,
-        "codigo": "014",
-        "nombre": "Secretaría de Protección Civil",
-        "abreviatura": "(SPC)"
-    },
-    {
-        "id": 15,
-        "codigo": "015",
-        "nombre": "Secretaría de la Contraloría",
-        "abreviatura": "(CONTRALORIA)"
-    }
-]
+{
+  "001": {
+    "abreviatura": "AGC-01",
+    "codigo": "001",
+    "dependencia": "Archivo General del Estado de Campeche (AGC)",
+    "id": 1,
+    "nombre": "Solicitud de copia certificada de archivos resguardados en los acervos del Archivo General del Estado de Campeche",
+    "tipo": "Trámite"
+  },
+  "002": {
+    "abreviatura": "BIENESTAR-01",
+    "codigo": "002",
+    "dependencia": "Secretaría de Bienestar (BIENESTAR)",
+    "id": 2,
+    "nombre": "Sobrinos en transformación: Apoyos a prestadores de servicio social, prácticas profesionales o residencia profesional",
+    "tipo": "Servicio"
+  },
+  "003": {
+    "abreviatura": "BIENESTAR-02",
+    "codigo": "003",
+    "dependencia": "Secretaría de Bienestar (BIENESTAR)",
+    "id": 3,
+    "nombre": "Apoyo ecónomico para actividades productivas",
+    "tipo": "Servicio"
+  },
+  "004": {
+    "abreviatura": "CCAMECAM-01",
+    "codigo": "004",
+    "dependencia": "Comisión de Conciliación y Arbitraje Médico (CCAMECAM)",
+    "id": 4,
+    "nombre": "Orientación en relación a los derechos y obligaciones de los usuarios de los servicios de salud",
+    "tipo": "Servicio"
+  },
+  "005": {
+    "abreviatura": "CCAMECAM-02",
+    "codigo": "005",
+    "dependencia": "Comisión de Conciliación y Arbitraje Médico (CCAMECAM)",
+    "id": 5,
+    "nombre": "Asesoría especializada para presentar una inconformidad/queja por atención en salud",
+    "tipo": "Servicio"
+  },
+  "006": {
+    "abreviatura": "CCAMECAM-03",
+    "codigo": "006",
+    "dependencia": "Comisión de Conciliación y Arbitraje Médico (CCAMECAM)",
+    "id": 6,
+    "nombre": "Gestión inmediata de servicios médicos en instituciones públicas de salud",
+    "tipo": "Servicio"
+  },
+  "007": {
+    "abreviatura": "CCAMECAM-04",
+    "codigo": "007",
+    "dependencia": "Comisión de Conciliación y Arbitraje Médico (CCAMECAM)",
+    "id": 7,
+    "nombre": "Queja médica por atención en salud",
+    "tipo": "Servicio"
+  },
+  "008": {
+    "abreviatura": "CECyTEC-01",
+    "codigo": "008",
+    "dependencia": "Colegio de Estudios Científicos y Tecnológicos (CECyTEC)",
+    "id": 8,
+    "nombre": "Inscripción",
+    "tipo": "Trámite"
+  },
+  "009": {
+    "abreviatura": "CESP-01",
+    "codigo": "009",
+    "dependencia": "Consejo Estatal de Seguridad Pública (CESP)",
+    "id": 9,
+    "nombre": "Inscripción al Registro Público Vehicular",
+    "tipo": "Trámite"
+  },
+  "010": {
+    "abreviatura": "CODESVI-01",
+    "codigo": "010",
+    "dependencia": "Comisión Estatal de Desarrollo de Suelo y Vivienda (CODESVI)",
+    "id": 10,
+    "nombre": "Solicitud de inscripción al Programa de Vivienda",
+    "tipo": "Trámite"
+  }
+}
